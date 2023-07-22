@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/solemed/static/css/main.8b25fa20.css",
-    "main.js": "/solemed/static/js/main.96532bb5.js",
+    "main.css": "/solemed/static/css/main.2cd56947.css",
+    "main.js": "/solemed/static/js/main.59205705.js",
     "index.html": "/solemed/index.html",
-    "main.8b25fa20.css.map": "/solemed/static/css/main.8b25fa20.css.map",
-    "main.96532bb5.js.map": "/solemed/static/js/main.96532bb5.js.map"
+    "main.2cd56947.css.map": "/solemed/static/css/main.2cd56947.css.map",
+    "main.59205705.js.map": "/solemed/static/js/main.59205705.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b25fa20.css",
-    "static/js/main.96532bb5.js"
+    "static/css/main.2cd56947.css",
+    "static/js/main.59205705.js"
   ]
 }
